@@ -32,5 +32,5 @@
 
 ### 📊 Stats
 <a href="https://github.com/rikcav">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rikcav&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikcav&layout=compact&langs_count=7&theme=gruvbox"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rikcav&show_icons=true&include_all_commits=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikcav&hide_progress=true&langs_count=8&theme=dark"/>
