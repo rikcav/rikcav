@@ -27,10 +27,3 @@
 <img align="left" alt="Bash" width="32px" style="padding-right:10px;" src="https://3.bp.blogspot.com/-_PgzXPX74H4/V9lTWdq39QI/AAAAAAAAAkg/dskwJDO-ByEoYPGgoftRqp3gD956_Jm-ACLcB/s1600/Bash-new.sh.png">
 <img align="left" alt="Neovim" width="32px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png">
 <br>
-
-#
-
-### 📊 Stats
-<a href="https://github.com/rikcav">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rikcav&show_icons=true&include_all_commits=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikcav&hide_progress=true&langs_count=8&theme=dark"/>
